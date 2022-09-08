@@ -6,7 +6,7 @@ function criaHoraDosSegundos(segundos){
     });
 }
 
-
+//variaveis declaradas para o temporizador
 
 const relogio = document.querySelector('.relogio');
 const iniciar = document.querySelector('.iniciar');
